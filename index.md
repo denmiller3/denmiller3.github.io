@@ -5,7 +5,7 @@
 ### Blossom Academy Projects 
 
 [ETL Pipeline Using Pandas](https://github.com/denmiller3/Blossom/tree/master/Project%201)
-<img src="images/pandas.png?raw=true"/>
+<img src="images/sparks3.png?raw=true"/>
 
 ---
 [Batch Processing For Data Minning](https://github.com/denmiller3/Blossom/tree/master/Project%202)
@@ -18,7 +18,7 @@
 ---
 
 [Web Scraping Using Beautiful Soup](https://github.com/denmiller3/Blossom/tree/master/Project%204)
-<img src="etl.png?raw=true"/>
+<img src="beautifulsoup.png?raw=true"/>
 ---
 
 
