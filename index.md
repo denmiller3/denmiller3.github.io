@@ -4,7 +4,7 @@
 
 ### Blossom Academy Projects 
 
-[ETL Pipeline Using Pandas](/sample_page)
+[ETL Pipeline Using Pandas](https://github.com/denmiller3/Blossom/tree/master/Project%201)
 <img src="images/pandas.png?raw=true"/>
 
 ---
