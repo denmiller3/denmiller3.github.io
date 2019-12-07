@@ -13,7 +13,7 @@
 
 ---
 [Basic End to End ETL Pipeline using Pyspark](https://github.com/denmiller3/Blossom/tree/master/Project%203)
-<img src="images/setl.png?raw=true"/>
+<img src="images/etl.png?raw=true"/>
 
 ---
 
