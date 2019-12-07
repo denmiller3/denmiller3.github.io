@@ -13,12 +13,12 @@
 
 ---
 [Basic End to End ETL Pipeline using Pyspark](https://github.com/denmiller3/Blossom/tree/master/Project%203)
-<img src="etl.png?raw=true"/>
+<img src="images/setl.png?raw=true"/>
 
 ---
 
 [Web Scraping Using Beautiful Soup](https://github.com/denmiller3/Blossom/tree/master/Project%204)
-<img src="beautifulsoup.png?raw=true"/>
+<img src="images/beautifulsoup.png?raw=true"/>
 ---
 
 
