@@ -8,28 +8,21 @@
 <img src="images/pandas.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Batch Processing For Data Minning](https://github.com/denmiller3/Blossom/tree/master/Project%202)
+<img src="images/pyspark.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Basic End to End ETL Pipeline using Pyspark](https://github.com/denmiller3/Blossom/tree/master/Project%203)
+<img src="etl.png?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+[Web Scraping Using Beautiful Soup](https://github.com/denmiller3/Blossom/tree/master/Project%204)
+<img src="etl.png?raw=true"/>
 ---
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
